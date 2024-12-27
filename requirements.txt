@@ -1,0 +1,4 @@
+pyperclip3
+pyqrcode
+string
+secrets
